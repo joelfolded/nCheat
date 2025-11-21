@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/GUI-customtkinter-red">
-  <img src="https://img.shields.io/badge/Memory-Pymem-yellow">
-  <img src="https://img.shields.io/badge/License-Unlicense-green">
-</p>
-
-
 # nCheat
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Framework](https://img.shields.io/badge/GUI-customtkinter-darkred)

@@ -7,7 +7,14 @@
 ![License](https://img.shields.io/badge/License-Unlicense-green)
 ![OpenSource](https://img.shields.io/badge/Open_Source-Yes-success)
 
-# nCheat Vers. 1
+<p align="center">
+  <img src="https://img.shields.io/badge/nCheat-Universal%20Memory%20Modifier-red?style=for-the-badge&logo=hackaday&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>A lightweight, open-source memory editor built with Python, Pymem, and customtkinter.</b>
+</p>
+
 
 A lightweight, simple, and fully open unrestricted game memory editor.  
 This project is licensed under **CC0 / Unlicense** — do whatever you want.

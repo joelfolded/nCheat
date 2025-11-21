@@ -13,11 +13,8 @@
 
 <p align="center">
   <b>A lightweight, open-source memory editor built with Python, Pymem, and customtkinter.</b>
+  <b>This project is licensed under **The Unlicense** — do whatever you want.</b>
 </p>
-
-
-A lightweight, simple, and fully open unrestricted game memory editor.  
-This project is licensed under **CC0 / Unlicense** — do whatever you want.
 
 ---
 

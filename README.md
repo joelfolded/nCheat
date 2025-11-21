@@ -7,12 +7,7 @@
 ![License](https://img.shields.io/badge/License-Unlicense-green)
 ![OpenSource](https://img.shields.io/badge/Open_Source-Yes-success)
 
-███╗ ██╗ ██████╗██╗ ██╗██╗ ██╗███████╗ █████╗ ████████╗
-████╗ ██║ ██╔════╝██║ ██╔╝██║ ██║██╔════╝██╔══██╗╚══██╔══╝
-██╔██╗ ██║ ██║ █████╔╝ ██║ ██║█████╗ ███████║ ██║
-██║╚██╗██║ ██║ ██╔═██╗ ██║ ██║██╔══╝ ██╔══██║ ██║
-██║ ╚████║ ╚██████╗██║ ██╗╚██████╔╝███████╗██║ ██║ ██║
-╚═╝ ╚═══╝ ╚═════╝╚═╝ ╚═╝ ╚═════╝ ╚══════╝╚═╝ ╚═╝ ╚═╝
+# nCheat Vers. 1
 
 A lightweight, simple, and fully open unrestricted game memory editor.  
 This project is licensed under **CC0 / Unlicense** — do whatever you want.

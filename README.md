@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>A lightweight, open-source memory editor built with Python, Pymem, and customtkinter.</b>
-  <b>This project is licensed under **The Unlicense** — do whatever you want.</b>
+  <b>This project is licensed under The Unlicense — do whatever you want.</b>
 </p>
 
 ---

@@ -1,24 +1,76 @@
-This is free and unencumbered software released into the public domain.
+nLicensing – Non-Commercial Learning License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Version 1.0
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Copyright (c) 2025 nConceptions
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Licensed under the nLicensing Non-Commercial Learning License (the “License”);
+you may not use this Software except in compliance with the License.
+You may obtain a copy of the License within this repository.
 
-For more information, please refer to <https://unlicense.org>
+1. Definitions
+
+“Software”
+refers to the source code, binary files, assets, documentation, and any other materials included under this License.
+
+“Non-Commercial”
+means any use that does not involve selling, licensing, renting, advertising, paid access, revenue generation, monetization, or any other form of commercial advantage.
+
+2. Grant of License
+
+Subject to the terms of this License, the Author hereby grants you a limited, revocable, non-exclusive, non-transferable license to:
+
+Use the Software solely for personal, non-commercial learning purposes, including studying, reviewing, analyzing, and privately modifying the Software.
+
+Store private copies of the Software for your own educational use.
+
+No other permissions are granted unless expressly stated.
+
+3. Restrictions
+3.1 Commercial Use Prohibited
+
+You may not use the Software or any derivative works for any commercial purpose.
+
+3.2 No Redistribution
+
+You may not distribute, publish, upload, or otherwise make the Software or derivative works publicly available.
+
+3.3 No Sub-Licensing
+
+You may not grant rights to third parties, nor incorporate this Software into any other licensed work.
+
+3.4 No Misrepresentation
+
+You may not claim authorship or ownership of the Software, nor remove or alter copyright notices.
+
+4. Termination
+
+Your rights under this License automatically terminate if you violate any condition.
+Upon termination, you must immediately cease all use of the Software and delete all copies in your possession.
+
+5. Disclaimer of Warranty
+
+Unless required by applicable law or agreed to in writing, the Software is provided “AS IS”, without warranties or conditions of any kind, either express or implied.
+
+This includes, but is not limited to, warranties of:
+
+merchantability,
+
+fitness for a particular purpose,
+
+non-infringement,
+
+or absence of defects.
+
+6. Limitation of Liability
+
+In no event shall the Author be liable for any claim, damages, or other liability arising from, or connected to, the Software or your use of it.
+
+7. Reservation of Rights
+
+Except for the limited rights expressly granted to you under this License,
+all rights, title, and interest in and to the Software remain with the Author.
+
+8. Acceptance
+
+By using, accessing, or modifying the Software, you indicate your acceptance of this License and agree to be bound by its terms.
